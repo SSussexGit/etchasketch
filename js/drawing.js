@@ -1,4 +1,4 @@
-m = 4; 
+dim = 4; 
 
 function reset(dim){
 
